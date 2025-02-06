@@ -59,15 +59,22 @@ Admin Panel -> Agents -> Roles then click on add new role name it Supreme Admin 
 </p>
 
 <p>
-Now lets configure SLA (Service Level Agreement). Make sure that you are on the Admin Panel then 
+Now lets configure SLA (Service Level Agreement). Make sure that you are on the Admin Panel then the Mansge tab and SLA click add new SLA plan. Make the name Sev-A Grace Period 1 hour Schedule 24/7.
+  Next make two more new plans Sev-B Sev-C. Sev-B should be an Grace Period: 4 hours, Schedule: 24/7. Sev-C an Grace Period: 8 hours, Business Hours.
 </p>
 <br />
 
 <p>
 <img width="403" alt="image" src="https://github.com/user-attachments/assets/9eb841b4-cf9b-4c51-a1c5-4eb9dbc0f967" />
 </p>
-
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure Help Topics (For when users create a ticket)
+Go to Admin Panel -> Manage -> Help Topics
+Creat these new Help Topics,
+- Business Critical Outage 
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
+- Other
 </p>
 <br />
